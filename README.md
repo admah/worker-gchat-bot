@@ -1,6 +1,6 @@
-# Worker Limit Request Bot
+# Worker Google Chat Bot
 
-This Worker receives requests from an external Google Form, and forwards them to an internal Google Chat channel as an interactive card.
+This repo provides a Cloudflare Worker that receives requests from an external Google Form, and forwards them to an internal Google Chat channel as an interactive card.
 
 ## Setup
 
